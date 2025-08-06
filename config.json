@@ -14,9 +14,9 @@
     "render_deployment": true
   },
   "test_status": {
-    "repository_creation": "pending",
-    "file_pushing": "pending",
-    "database_storage": "pending",
-    "project_updates": "pending"
+    "repository_creation": "success",
+    "file_pushing": "success",
+    "database_storage": "success",
+    "project_updates": "testing"
   }
 }
